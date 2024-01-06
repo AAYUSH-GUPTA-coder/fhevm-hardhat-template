@@ -1,3 +1,9 @@
+/**
+ * @title Encrypted ERC20 Smart contract
+ * @author Aayush Gupta
+ * @notice This is Encrypted version of simple ERC20 Token on INCO NETWORK (FhEVM)
+ */
+
 // SPDX-License-Identifier: BSD-3-Clause-Clear
 
 pragma solidity 0.8.19;
